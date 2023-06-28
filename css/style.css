@@ -1,0 +1,10 @@
+body{background-color:yellow;}
+	p{
+		color:red;
+	}
+	.text{
+		color:blue;
+	}
+	#text1{
+		color:gray !important;
+	}
